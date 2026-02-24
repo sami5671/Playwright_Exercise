@@ -1,6 +1,6 @@
 # 🧪 Playwright Automation --- Automation Exercise Project
 
-![Automation Exercise Homepage](./docs/homepage.png)
+![Automation Exercise Homepage](https://github.com/sami5671/Playwright_Exercise/blob/main/images/image.png)
 
 > End-to-end UI test automation framework built using **Playwright +
 > TypeScript** following the **Page Object Model (POM)** design pattern.
